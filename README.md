@@ -7,23 +7,23 @@ Para este desafío, estaremos disparando un gameobject desde un asset. Para come
 
 ## Paso 2: Convertir proyecto a URP
 Luego convertimos los elementos del proyecto a URP utilizando el Render Pipeline Converter para eliminar las texturas moradas.  
-![Shooting Point](images/shootingpoint (1).pdf-image-001.jpg)
+![Shooting Point](images/shootingpoint%(1).pdf-image-001.jpg)
 
 ## Paso 3: Añadir el primer asset
 Colocamos el primer asset en la escena.  
-![Shooting Point](images/shootingpoint (1).pdf-image-002.jpg)
+![Shooting Point](images/shootingpoint%(1).pdf-image-002.jpg)
 
 ## Paso 4: Añadir scripts de movimiento y rotación
 Después añadimos scripts básicos de movimiento y rotación para el asset.  
-![Shooting Point](images/shootingpoint (1).pdf-image-003.jpg)
+![Shooting Point](images/shootingpoint%(1).pdf-image-003.jpg)
 
 ## Paso 5: Crear un gráfico para el script
 Hacemos el mismo script, pero en formato gráfico.  
-![Shooting Point](images/shootingpoint (1).pdf-image-004.jpg)
+![Shooting Point](images/shootingpoint%(1).pdf-image-004.jpg)
 
 ## Paso 6: Crear un material para la bala
 Ahora, para crear una bala, hacemos un nuevo material e insertamos una esfera en la escena.  
-![Shooting Point](images/shootingpoint (1).pdf-image-005.jpg)
+![Shooting Point](images/shootingpoint%(1).pdf-image-005.jpg)
 
 ## Paso 7: Editar el material
 Editamos el material a nuestro gusto.  
